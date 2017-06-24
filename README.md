@@ -1,2 +1,4 @@
 # hello-world
-This is my first github repository 
+Hi Everyone
+
+My names is Adam and I am a 20 year old irish computer science student.
